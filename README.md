@@ -1,2 +1,2 @@
 # tb-modelling.github.io
-weebsite code for TB-MODELLING
+website code for TB-MODELLING
