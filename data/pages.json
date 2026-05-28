@@ -1,0 +1,26 @@
+﻿[
+  {
+    "page_name": "Home",
+    "format": ["News title", "News content", "Image"]
+  },
+  {
+    "page_name": "About us",
+    "format": ["Title", "Content", "Image"]
+  },
+  {
+    "page_name": "Our Team",
+    "format": [ "Name", "Titles", "Job", "Affiliation", "Content", "Image" ]
+  },
+  {
+    "page_name": "Publications",
+    "format": ["Title", "Content", "Link", "Authors", "Journal", "Year", "doi", "Project"]
+  },
+  {
+    "page_name": "Projects",
+    "format": ["Title", "Content", "People involved", "Link", "Country", "Start date", "End Date", "Image"]
+  },
+  {
+    "page_name": "Links",
+    "format": ["Text", "Link"]
+  }
+]
